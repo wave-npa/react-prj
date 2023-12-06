@@ -1,0 +1,1 @@
+A basic message app where users can view, write new post and add posts to favorite
